@@ -1,7 +1,7 @@
 <!--html_preserve-->
 <span>
 <h3>
-Mikołaj Olszewski
+Mikołaj Olszewski, Mikołaj Bogucki
 </h3>
 <p>
 Pearson
