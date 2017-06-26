@@ -15,10 +15,10 @@ Enterprise</strong>
 <p>
 Świat hermetycznych platform analitycznych powoli staje się historią.
 Dzisiaj analityka zaawansowana jest pchana do przodu przez świat
-open-source wspierany przez największych graczy. R W różnych dyskusjach
+open-source wspierany przez największych graczy. W różnych dyskusjach
 stawiane jest pytanie o dojrzałość R z punktu widzenia wymagań
 korporacji. Na podstawie wdrażania R w dużym telekomie opowiem dlaczego
-uważam, że R jest numerem jeden jeśli chodzi o zaawansowaną analitykę w
+uważam, że R może być numerem jeden jeśli chodzi o zaawansowaną analitykę w
 każdej dużej korporacji. Pokażę na co zwrócić uwagę i jakie są plusy i
 minusy przejścia na R.
 </p>

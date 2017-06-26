@@ -1,7 +1,7 @@
 <!--html_preserve-->
 <span>
 <h3>
-Marcin Dyderski
+Marcin K. Dyderski, Andrzej M. Jagodziński
 </h3>
 <p>
 Instytut Dendrologii Polskiej Akademii Nauk w Kórniku
