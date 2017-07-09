@@ -4,7 +4,7 @@
 Mateusz Otmianowski
 </h3>
 <p>
-Pearson IOKI
+Pearson
 </p>
 <br/>
 <p>
