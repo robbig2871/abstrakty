@@ -7,7 +7,6 @@ Mikołaj Olszewski, Mikołaj Bogucki
 Pearson
 </p>
 <br/>
-<br/>
 <p>
 English:
 
