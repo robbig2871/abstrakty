@@ -8,13 +8,10 @@ Pearson
 </p>
 <br/>
 <p>
-<strong>Challenges with using open-source software in a corporate
-environment / Wyzwania stawiane przez technologie open source w
-biznesie</strong>
-</p>
-<br/>
-<p>
 English:
+
+<strong>Challenges with using open-source software in a corporate
+environment</strong>
 
 In the data science world, more and more companies are switching from
 commercial off-the-shelf analytics tools to open-source software, and R
@@ -33,6 +30,9 @@ projects, our solutions to them, and the impact they had on our projects
 and the team’s approach to new problems.
 
 Polski:
+
+<strong>Wyzwania stawiane przez technologie open source w
+biznesie</strong>
 
 W świecie współczesnej analityki danych coraz więcej firm rezygnuje z
 komercyjnych narzędzi analitycznych na rzecz oprogramowania open source,
