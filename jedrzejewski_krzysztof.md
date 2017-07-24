@@ -1,10 +1,10 @@
 <!--html_preserve-->
 <span>
 <h3>
-Krzysztof Jędrzejewski
+Krzysztof Jędrzejewski, Emilia Pankowska
 </h3>
 <p>
-Pearson IOKI sp. z o. o.
+Pearson
 </p>
 <br/>
 <p>
