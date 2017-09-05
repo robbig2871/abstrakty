@@ -4,8 +4,8 @@
 Robert Bigos
 </h3>
 <p>
-Wcześniej pracował dla fim takich jak IBM, SAP, Sabre. 
-Obecnie doradza klientom ciesząc się życiem :)
+PEX Pharmasequence
+
 </p>
 <br/>
 <p>
